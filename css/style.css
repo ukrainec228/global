@@ -1,0 +1,150 @@
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(138, 130, 136);
+    flex-wrap: wrap;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.katalog {
+    background-image:linear-gradient(green,palegreen);
+    color: rgb(20, 97, 10);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 29px;
+    border-radius: 10px;
+    display: block;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 35px;
+    color: rgb(6, 247, 46);
+    text-decoration:none;
+    display:block;
+}
+
+h1 {
+    text-align: center;
+    background: -webkit-linear-gradient(lightyellow,coral);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
+.post-text {
+    font-size: 26px;
+    color: purple;
+}
+
+.tut {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.kwadratu {
+    background-color: rgba(80, 172, 129, 0.808);
+    padding: 15px 45px 30px 45px;
+    width: 400px;
+    margin: 20px;
+    position: relative;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #133aac;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: block;
+}
+
+.full-image {
+    margin: 100px 0px 100px 0px;
+}
+
+.social {
+    display: block;
+    width: 30px;
+
+}
+
+footer {
+    background-color: rgb(221, 112, 112);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+
+
+.footer-text span {
+    color: #850AE5;
+    font-weight: bolder;
+}
+.soc{
+    background-color: #1d813f;
+    position: fixed;
+    display: block;
+    right:10px;
+    width:100px;
+    height:250px;
+    top:110px;
+    padding-left: 10px;
+    padding-right:10px ;
+    color:white;
+    border-radius: 15px;
+}
+.soc2{
+    position: relative;
+    left:30px;
+}
+.text:hover{
+    color:rgb(167, 208, 221);
+    padding-top:20px;
+}
+.social:hover{
+    border-bottom:15px double rgba(119, 0, 255, 0.507) ;
+}
+.sale{
+    position:absolute;
+    right:70px;
+}
+h1{
+    font-size:40px;
+}
+li{
+    font-size:20px;
+}
+.a{
+    font-size: 25px;
+    font-family:serif;
+}
+.text{
+    padding-top:0px;
+    padding-bottom:0px;
+}
+.kapusta:hover {
+    margin: 100px;
+    transform:scale(3);
+    transition:6s linear;
+}
