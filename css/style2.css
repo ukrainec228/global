@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(99, 190, 190);
+}
+h1{
+    text-align: center;
+    background-image:linear-gradient(to bottom left,rgba(83, 0, 109, 0.644),rgb(172, 121, 161));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.kotyk{
+    font-size: 20px;
+    background-color:darkblue ;
+    color:rgb(220, 100, 231);
+}
+.ce{
+    font-size: 24px;
+    color:rgb(34, 225, 250);
+    background-color: darkblue;
+    font-family: sans-serif;
+}
+.nav-link {
+    font-size: 35px;
+    color: rgb(31, 25, 124);
+    text-decoration:none;
+    display:inline-block;
+}
+nav {
+    border-top: 5px solid rgb(54, 23, 169);
+    border-bottom: 5px solid rgb(247, 252, 0);
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
