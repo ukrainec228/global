@@ -20,7 +20,7 @@ header{
 main{
 	font-family: fantasy;
 	color: rgb(255, 255, 255);
-	background-color: rgb(58, 31, 212);	
+	background-color: rgb(207, 209, 184);
     font-size: 15px;
 }
 textarea{
@@ -36,7 +36,7 @@ td{
 }
 .a{
 color:rgb(0, 32, 139);
-background-image:linear-gradient(black,grey);
+background-image:linear-gradient(rgb(248, 233, 233),grey);
 border-radius: 2px;
 padding: 1px;
 text-decoration:none;
@@ -55,6 +55,7 @@ table{
 }
 .slon{
 font-size:19px;
+Color:green;
 }
 .nav-link {
     font-size: 35px;
@@ -69,3 +70,4 @@ nav {
     display: flex;
     justify-content: space-between;
 }
+
