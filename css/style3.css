@@ -36,12 +36,12 @@ td{
 }
 .a{
 color:rgb(0, 32, 139);
-background-image:linear-gradient(rgb(253, 12, 12),coral);
+background-image:linear-gradient(black,grey);
 border-radius: 2px;
 padding: 1px;
 text-decoration:none;
-border:2px solid green;
-box-shadow: 5px 5px 0px 0px rgb(205, 224, 27);
+border:2px solid darkblue;
+box-shadow: 5px 5px 0px 0px rgb(purple);
 font-size: 24px;
 }
 .bobr{
