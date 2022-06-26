@@ -17,6 +17,7 @@ h1{
     color:rgb(34, 225, 250);
     background-color: darkblue;
     font-family: sans-serif;
+    text-align:center;
 }
 .nav-link {
     font-size: 35px;
