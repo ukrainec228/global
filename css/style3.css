@@ -72,3 +72,8 @@ nav {
     display: flex;
     justify-content: space-between;
 }
+table{
+    width:100px;
+    border:1px;
+    background-color:rgb(214, 164, 164) ;
+}
