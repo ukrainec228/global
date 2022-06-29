@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(99, 190, 190);
+    background-color:rgb(207, 209, 184);
 }
 h1{
     text-align: center;
@@ -8,9 +8,8 @@ h1{
     -webkit-text-fill-color: transparent;
 }
 .kotyk{
-    font-size: 20px;
-    background-color:darkblue ;
-    color:rgb(220, 100, 231);
+    font-size: 20px;  
+    color:darkgreen;
 }
 .ce{
     font-size: 24px;
@@ -31,4 +30,7 @@ nav {
     padding: 25px 100px 25px 95px;
     display: flex;
     justify-content: space-between;
+}
+.stefania{
+    text-align: center;
 }
