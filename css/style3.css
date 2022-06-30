@@ -73,7 +73,7 @@ nav {
     justify-content: space-between;
 }
 table{
-    width:100px;
+    width:100%;
     border:1px;
     background-color:rgb(214, 164, 164) ;
 }
