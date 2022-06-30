@@ -52,9 +52,7 @@ font-size: 24px;
 .ashdwao{
     font-size:25px;
 }
-table{
-    font-size: 18px;
-}
+
 .slon{
 font-size:19px;
 Color:green;
@@ -76,4 +74,5 @@ table{
     width:100%;
     border:1px;
     background-color:rgb(214, 164, 164) ;
+	font-size: 18px;
 }
