@@ -34,3 +34,7 @@ nav {
 .stefania{
     text-align: center;
 }
+img.animate1:hover {
+    border:5px solik blue;
+    
+}
