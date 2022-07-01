@@ -1,7 +1,4 @@
 
-
-
-
 h1{
 	text-align:center;
      background-color: #2AA5A0;
@@ -79,4 +76,7 @@ table{
     border:1px;
     background-color:rgb(214, 164, 164) ;
 	font-size: 18px;
+}
+footer{
+	width:100px;
 }
