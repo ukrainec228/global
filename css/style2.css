@@ -36,5 +36,7 @@ nav {
 }
 img.animate1:hover {
     border:5px solik blue;
+    width:290px;
+    height:330px;
     
 }
